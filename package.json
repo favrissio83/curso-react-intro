@@ -31,5 +31,8 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://favrissio83.github.io/curso-react-intro/"
+  "homepage": "https://favrissio83.github.io/curso-react-intro/",
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  }
 }
